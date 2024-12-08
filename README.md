@@ -1,2 +1,3 @@
 # craxsrat-latest-update
-HTTPS://CRAXSRAT.XYZ
+
+## https://craxsrat.xyz
